@@ -1,4 +1,4 @@
-# MicroProfile Example - Using JWT with Keycloak
+# MicroProfile Example - Hello World with Payara-Micro
 
 ## Introduction
 
