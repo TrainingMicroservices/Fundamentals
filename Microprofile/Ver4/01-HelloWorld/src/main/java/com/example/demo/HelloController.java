@@ -11,7 +11,7 @@ import jakarta.ws.rs.core.Response.Status;
 
 
 
-@Path("/ms")
+@Path("/api")
 @RequestScoped 
 public class HelloController {
     private static final Logger LOGGER = Logger.getLogger(HelloController.class.getName());
