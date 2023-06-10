@@ -1,4 +1,4 @@
-# MicroProfile generated Application
+# MicroProfile Example - Using JWT with Keycloak
 
 ## Introduction
 
