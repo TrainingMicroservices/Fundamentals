@@ -21,7 +21,7 @@ public class HelloController {
 
     public Response sayHello() {
 
-        LOGGER.log(Level.WARNING, "MetEireann backup service has been requested due to AccuWeather timeout");
+        LOGGER.log(Level.WARNING, "Hello World...");
 
         return Response.status(Status.OK).entity(new String("Hello World")).build();
     }
