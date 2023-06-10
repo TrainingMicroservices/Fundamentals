@@ -1,1 +1,3 @@
-Microprofile/Ver4/01-HelloWorld/target/
+Microprofile/Ver4/01-HelloWorld/target
+Microprofile/Ver4/01-HelloWorld/target/*
+Microprofile/Ver4/01-HelloWorld/target/**
